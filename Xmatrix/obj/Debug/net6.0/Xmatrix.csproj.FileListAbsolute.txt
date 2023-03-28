@@ -1,0 +1,15 @@
+C:\Users\Ren\Desktop\ELTE\4th Semester\oop2\Xmatrix\Xmatrix\obj\Debug\net6.0\Xmatrix.csproj.AssemblyReference.cache
+C:\Users\Ren\Desktop\ELTE\4th Semester\oop2\Xmatrix\Xmatrix\obj\Debug\net6.0\Xmatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ren\Desktop\ELTE\4th Semester\oop2\Xmatrix\Xmatrix\obj\Debug\net6.0\Xmatrix.AssemblyInfoInputs.cache
+C:\Users\Ren\Desktop\ELTE\4th Semester\oop2\Xmatrix\Xmatrix\obj\Debug\net6.0\Xmatrix.AssemblyInfo.cs
+C:\Users\Ren\Desktop\ELTE\4th Semester\oop2\Xmatrix\Xmatrix\obj\Debug\net6.0\Xmatrix.csproj.CoreCompileInputs.cache
+C:\Users\Ren\Desktop\ELTE\4th Semester\oop2\Xmatrix\Xmatrix\bin\Debug\net6.0\Xmatrix.exe
+C:\Users\Ren\Desktop\ELTE\4th Semester\oop2\Xmatrix\Xmatrix\bin\Debug\net6.0\Xmatrix.deps.json
+C:\Users\Ren\Desktop\ELTE\4th Semester\oop2\Xmatrix\Xmatrix\bin\Debug\net6.0\Xmatrix.runtimeconfig.json
+C:\Users\Ren\Desktop\ELTE\4th Semester\oop2\Xmatrix\Xmatrix\bin\Debug\net6.0\Xmatrix.dll
+C:\Users\Ren\Desktop\ELTE\4th Semester\oop2\Xmatrix\Xmatrix\bin\Debug\net6.0\Xmatrix.pdb
+C:\Users\Ren\Desktop\ELTE\4th Semester\oop2\Xmatrix\Xmatrix\obj\Debug\net6.0\Xmatrix.dll
+C:\Users\Ren\Desktop\ELTE\4th Semester\oop2\Xmatrix\Xmatrix\obj\Debug\net6.0\refint\Xmatrix.dll
+C:\Users\Ren\Desktop\ELTE\4th Semester\oop2\Xmatrix\Xmatrix\obj\Debug\net6.0\Xmatrix.pdb
+C:\Users\Ren\Desktop\ELTE\4th Semester\oop2\Xmatrix\Xmatrix\obj\Debug\net6.0\Xmatrix.genruntimeconfig.cache
+C:\Users\Ren\Desktop\ELTE\4th Semester\oop2\Xmatrix\Xmatrix\obj\Debug\net6.0\ref\Xmatrix.dll
